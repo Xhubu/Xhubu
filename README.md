@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> **"Kon'nichiwa I'm Aruoto ( Shubhansh )"** , and this is my profile readme.
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> **"Kon'nichiwa I'm Aruoto (Shubhansh)"** , and this is my profile readme.
  Who I'm? Just A Noob Of 14 Years Old, I'm learning and playing around with a few languages
 
 # **"Currently Learning"**
