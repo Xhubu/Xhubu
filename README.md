@@ -18,5 +18,5 @@ Python(Almost), C++(Learning) will Learn more in future.
 
 # "My Projects?"
 - [Tedeza Bot](https://github.com/Aruoto/Tedeza) | [Cynics-UseRBot](https://github.com/CandyGang/Cynics)
-More Cummin' in Future
+More Cumin' in Future
 
